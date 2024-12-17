@@ -19,7 +19,7 @@ git pull
 git add . 
 
 #新增快照，名字为"first commit"
-git commit -m "first commit"
+git commit -m "first commit2"
 
 #提交到github
 git push
