@@ -11,6 +11,7 @@ git remote add origin https://github.com/song-xudong/gittest.git
 git branch -M main
 git push -u origin main
 
+
 #本地内容同步为github中内容
 git pull
 
@@ -22,3 +23,6 @@ git commit -m "first commit"
 
 #提交到github
 git push
+
+#查看提交的记录
+git log --oneline 
