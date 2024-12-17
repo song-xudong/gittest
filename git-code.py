@@ -13,7 +13,7 @@ git push -u origin main
 
 
 #本地内容同步为github中内容
-git pull
+#git pull
 
 #将所有内容提交
 git add . 
