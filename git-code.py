@@ -15,6 +15,9 @@ git push -u origin main
 #本地内容同步为github中内容
 #git pull
 
+#将某个文件提交
+git add -p XXX.XX
+
 #将所有内容提交
 git add . 
 
