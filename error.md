@@ -9,3 +9,4 @@ ping github.com
 #如果没问题使用下面命令即可
 git config --global --unset http.proxy 
 git config --global --unset https.proxy
+
